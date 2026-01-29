@@ -15,7 +15,7 @@ Hebbian learning has attracted considerable interest as a biologically plausible
 
 ## Overview
 
-![Method Overview](./figs/method.png)
+![Method Overview](./figs/Method.png)
 **Comparison of different training methods**. **Left:** Standard BP training process, using global error signals to compute precise gradients for weight updates. **Middle:** Two-factor Hebbian learning approach, which relies only on local information from pre and post synaptic neurons to update weights, without considering global task objectives. **Right:** Our method, Global-guided Hebbian Learning (GHL), integrates local Hebbian plasticity with a global sign-based modulation.
 
 ## Results
