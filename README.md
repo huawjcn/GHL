@@ -2,6 +2,7 @@
 
 # Hebbian Learning with Global Direction
 
+[![arXiv](https://img.shields.io/badge/arXiv-2601.21367-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.21367)  
 Wenjia Hua, Kejie Zhao, Luziwei Leng, Ran Cheng, Yuxin Ma, Qinghai Guo  
 **ICASSP 2026**
 
@@ -63,5 +64,12 @@ python train.py  --model FastHebb --lr_conv 5e-2 --wd_conv 1e-2 --lr 1e-4 --devi
 ## Citation
 If you find our work useful, please consider citing our paper:
 ```bibtex
-
+@misc{hua2026hebbianlearningglobaldirection,
+      title={Hebbian Learning with Global Direction}, 
+      author={Wenjia Hua and Kejie Zhao and Luziwei Leng and Ran Cheng and Yuxin Ma and Qinghai Guo},
+      year={2026},
+      eprint={2601.21367},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2601.21367}, 
+}
 ```
