@@ -3,7 +3,7 @@
 # Hebbian Learning with Global Direction
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.21367-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.21367)
-![DOI](https://img.shields.io/badge/DOI-10.1109%2FICASSP55912.2026.11464818-blue)  
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICASSP55912.2026.11464818-blue)](https://doi.org/10.1109/ICASSP55912.2026.11464818)  
 Wenjia Hua, Kejie Zhao, Luziwei Leng, Ran Cheng, Yuxin Ma, Qinghai Guo  
 **ICASSP 2026**
 
